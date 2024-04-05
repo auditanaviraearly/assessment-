@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Herbavist</string>
+    <string name="tentang_aplikasi">Aplikasi ini berisikan informasi tentang tanaman tanaman herbal yang sering digunakan oleh masyarakat indonesia</string>
+
+    //Jahe (Zingiber officinale)
+    <string name="jahe">Jahe(Zingiber officinale)          Jahe adalah tanaman rimpang yang mengandung berbagai macam nutrisi, seperti serat, mineral, vitamin, dan lain sebagainya.         Karena kandungan-kandungan tersebut, jahe dipercaya memiliki berbagai macam manfaat untuk kesehatan tubuh.          Fungsi: Jahe sering digunakan sebagai rempah-rempah dalam masakan dan minuman. Selain itu, jahe juga memiliki sifat anti-inflamasi           dan antioksidan yang dapat membantu meredakan mual, mengurangi nyeri sendi, serta mendukung pencernaan yang sehat.</string>
+    //Lidah Buaya (Aloe vera)
+    <string name="lidah_buaya">"Lidah Buaya (Aloe vera)          Lidah buaya adalah tanaman hijau yang tidak bertulang dan memiliki daging tebal, disebut juga dengan gel. Bagian inilah yang       menawarkan segudang manfaat karena kandungan zat aktif di dalamnya. Tanaman ini sering dijadikan sebagai bahan dasar produk kecantikan karena mengandung: Asam folat.          Fungsi: Lidah buaya memiliki sifat penyembuhan dan menghidrasi kulit yang baik. Gel dari lidah buaya sering digunakan untuk meredakan luka bakar, iritasi kulit, serta sebagai           bahan dalam produk-produk perawatan kulit dan rambut.     "</string>
+    //Sambiloto (Andrographis paniculata)
+    <string name="sambiloto">"Sambiloto (Andrographis paniculata)          Sambiloto adalah jenis tumbuhan liar yang memiliki banyak khasiat yaitu dapat mengobati berbagai macam penyakit.          Fungsi: Sambiloto dikenal memiliki sifat antimikroba, antiinflamasi, dan imunomodulator. Tanaman ini sering digunakan dalam pengobatan tradisional untuk mengatasi berbagai           masalah kesehatan, seperti demam, flu, batuk, dan infeksi saluran pernapasan.     "</string>
+
+    //Kunyit (Curcuma longa)
+    <string name="kunyit">"Kunyit (Curcuma longa)          Kunyit merupakan tanaman obat berupa semak dan bersifat tahunan (perenial) yang tersebar di seluruh daerah tropis. Tanaman kunyit tumbuh subur dan liar disekitar hutan/bekas kebun.           Diperkirakan berasal dari Binar pada ketinggian 1300-1600 m dpl, ada juga yang mengatakan bahwa kunyit berasal dari India.          Fungsi: Kunyit mengandung senyawa aktif yang disebut kurkumin, yang memiliki sifat antiinflamasi dan antioksidan. Kunyit sering digunakan dalam pengobatan tradisional untuk           membantu meredakan peradangan, meningkatkan sistem kekebalan tubuh, serta mendukung kesehatan pencernaan.     "</string>
+
+    //Daun Kemangi (Ocimum basilicum)
+    <string name="daun_kemangi">"Daun Kemangi (Ocimum basilicum)          Kemangi adalah tumbuhan tahunan yang tumbuh tegak dengan cabang yang banyak. Tanaman ini berbentuk perdu yang tingginya dapat mencapai 100 cm. Bunganya tersusun di tandan yang tegak.           Daunnya panjang, tegak, berbentuk taji atau bulat telur,berwarna hijau muda dan berbau harum. Ujung daun bisa tumpul atau bisa juga tajam, panjangnya mencapai 5 cm. Permukaan bergerigi atau juga rata.           Wanginya seperti cengkih dan rasanya pahit.          Fungsi: Daun kemangi mengandung senyawa seperti eugenol, linalool, dan estragol yang memiliki sifat antimikroba dan antiinflamasi. Daun kemangi sering digunakan dalam masakan           sebagai penyedap dan juga dikonsumsi untuk membantu meredakan peradangan, meningkatkan sistem kekebalan tubuh, dan mengurangi stres.     "</string>
+
+    <string name="copyright" translatable="false">Assesmen Tanaman\nAudita Navira Early\n6706223077</string>
+    <string name="kembali">Kembali</string>
+</resources>
